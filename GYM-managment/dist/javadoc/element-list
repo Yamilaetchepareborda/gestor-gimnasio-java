@@ -1,0 +1,6 @@
+gym.managment
+gym.managment.controller
+gym.managment.dao
+gym.managment.model
+gym.managment.util
+gym.managment.view
