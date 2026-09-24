@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"gym.managment"},{"l":"gym.managment.controller"},{"l":"gym.managment.dao"},{"l":"gym.managment.model"},{"l":"gym.managment.util"},{"l":"gym.managment.view"}];updateSearchResults();

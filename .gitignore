@@ -24,3 +24,6 @@ hs_err_pid*
 replay_pid*
 /GYM-managment/nbproject/private/
 /GYM-managment/build/
+
+# NetBeans generated output
+/GYM-managment/dist/
